@@ -1,4 +1,4 @@
-
+package src;
 public class Doutor extends Pessoa {
 
 	@Override
